@@ -1,0 +1,2 @@
+D:\University\thesis\code\thesis-AR-measuring\ARMeasuringApp\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\University\thesis\code\thesis-AR-measuring\ARMeasuringApp\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

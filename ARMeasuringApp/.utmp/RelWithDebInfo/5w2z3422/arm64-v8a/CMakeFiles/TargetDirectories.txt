@@ -1,0 +1,5 @@
+D:/University/thesis/code/thesis-AR-measuring/ARMeasuringApp/.utmp/RelWithDebInfo/5w2z3422/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/University/thesis/code/thesis-AR-measuring/ARMeasuringApp/.utmp/RelWithDebInfo/5w2z3422/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/University/thesis/code/thesis-AR-measuring/ARMeasuringApp/.utmp/RelWithDebInfo/5w2z3422/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/University/thesis/code/thesis-AR-measuring/ARMeasuringApp/.utmp/RelWithDebInfo/5w2z3422/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/University/thesis/code/thesis-AR-measuring/ARMeasuringApp/.utmp/RelWithDebInfo/5w2z3422/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
