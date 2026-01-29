@@ -2,6 +2,8 @@
 Augmented Reality measuring application developed as part of my master’s thesis. The thesis explores real-world object measurement, and this application enables users to measure real-world distances 
 and object dimensions using multiple measurement methods based on various AR features. The app was tested on both Android and iOS.
 
+**Read the Thesis Paper**: [AR-Based Measurement Methods: A Comparative Study of Techniques for Measuring Object Dimensions and Distances in Practical Applications](https://ltu.diva-portal.org/smash/record.jsf?pid=diva2:2002913)
+
 # Implementation
 The Unity project consists of a total of eight different scenes. One of these is the start menu, which serves as the entry point to the application 
 and allows the user to choose a measurement method of their choice. The remaining scenes, which represent the available measurement methods, are as 
